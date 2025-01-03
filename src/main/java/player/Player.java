@@ -1,4 +1,4 @@
-package palyer;
+package player;
 
 public class Player {
     private String name;
